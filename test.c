@@ -1,4 +1,5 @@
 // Added a comment to the top
+// Added a second comment to the top
 #include <stdio.h>
 
 int main(void) {
