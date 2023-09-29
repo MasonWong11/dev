@@ -1,3 +1,4 @@
+// Added a comment to the top
 #include <stdio.h>
 
 int main(void) {
